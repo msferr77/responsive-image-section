@@ -11,7 +11,7 @@ html {
 @viewport { width: device-width; scale: 1; }
 
 body {
-  margin: 0;
+  margin: 0 auto;
   background-color: #e2e2e2;
   max-width: 50em;
 }
@@ -36,7 +36,6 @@ a {
 }
 
 .img-flex {
-  display: inline-block;
   width: 100%;
   padding-top: 1rem;
 }
@@ -63,7 +62,6 @@ a {
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
-    justify-content:
   }
 
 }
